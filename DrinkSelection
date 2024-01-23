@@ -1,6 +1,0 @@
-Feature: 
-As a coffee enthusiast, I want to choose from a variety of coffee types and other beverages.
- 
- Scenario : Customer selects a regular black coffee.
- Scenario : Customer selects a cappuccino with extra foam.
- Scenario : Customer chooses a hot chocolate.
