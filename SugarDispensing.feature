@@ -16,8 +16,8 @@ Feature: Sugar Options in Coffee Machine
     And dispense a sweetened <coffee_option>
 
   Examples:
-    | coffee_option | sugar_amount |
+    | coffee_option  | sugar_amount |
     | regular coffee | 1 spoon      |
     | cappuccino     | 2 spoons     |
     | espresso       | 0 spoons     |
-    | latte           | 3 spoons     |
+    | latte          | 3 spoons     |
